@@ -144,6 +144,12 @@ body {
   background: #2f303a;
 }
 
+.adress {
+  font-size: 14px;
+  line-height: 1.71;
+  color: var(--primary-white-color);
+}
+
 .footer-list .link {
   color: rgba(255, 255, 255, 0.6);
   font-size: 14px;
@@ -154,10 +160,6 @@ body {
 .footer-list .link:hover,
 .footer-list .link:focus {
   color: var(--accent-color);
-}
-
-.footer-list .adress {
-  color: var(--primary-white-color);
 }
 
 /* ПОРТФОЛІО */
