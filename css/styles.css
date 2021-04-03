@@ -164,7 +164,7 @@ body {
 
 /* ПОРТФОЛІО */
 
-.filters-list .link {
+.filters-list .filter {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
@@ -173,8 +173,8 @@ body {
   cursor: pointer;
 }
 
-.filters-list .link:hover,
-.filters-list .link:focus {
+.filters-list .filter:hover,
+.filters-list .filter:focus {
   color: var(--primary-white-color);
   background-color: var(--accent-color);
 }
